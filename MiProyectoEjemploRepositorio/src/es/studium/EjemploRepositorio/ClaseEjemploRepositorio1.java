@@ -7,6 +7,8 @@ public class ClaseEjemploRepositorio1
   public ClassEjemploRepositorio1(String m) {
     
     modificacion = m;
+    
+    // Comentario de Carmen para ED
   }
   
 }
